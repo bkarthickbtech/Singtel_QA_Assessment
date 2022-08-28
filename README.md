@@ -19,7 +19,7 @@ Todo List Automation using **Selenium**, **Cucumber**, **Maven**, and **Java Lan
         export PATH=$PATH:$JAVA_HOME/bin
         ```
     * Save and exit your .bash_profile
-    * 
+     
 * Type `java -version` in your Terminal to verify installation and find out your java version
 * See the output of [java version](https://prnt.sc/p8zd7s)
 
